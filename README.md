@@ -1,2 +1,2 @@
 # Trabalho-1
-teste repositório para o trabalho 1
+Pasta dos exercícios do trabalho 1
